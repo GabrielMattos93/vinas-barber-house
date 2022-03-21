@@ -13,11 +13,12 @@ Versão - 1.0
  PHP<br>
 
 
-### Frameworks e Bibliotecas
+### Frameworks, Bibliotecas e Recursos
 
 Bootstrap<br>
 IcoFont<br>
 Google fonts<br>
+Composer<br>
 
 
 <details>
@@ -38,13 +39,23 @@ O vina´s barber house é um projeto portfólio de um site de barbearia.
 <pre>
 Na pasta assets estão todos os arquivos de imagem e estilização dos site.
 css
-images
+img
 js
-plugins
+vendors
 scss
 </pre>
 </details>
 
+---
+<details>
+<summary>Estrutura da Pasta Helpers</summary>
+<br>
+<br><br>
+<pre>
+Na pasta helpers você encontrará o arquivo de configuração da url base
+
+</pre>
+</details>
 ---
 
 <details>
@@ -64,7 +75,7 @@ Na pasta pages você encontra todas as páginas do projeto.
 <br>
 <br><br>
 <pre>
-Na pasta includes, incluímos todos os arquivos referentes a configurações.
+Na pasta includes, incluímos todos os arquivos referentes a configurações e templates de layout.
 
 </pre>
 </details>
