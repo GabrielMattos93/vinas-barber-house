@@ -1,4 +1,6 @@
-<?php require_once ("includes/imagem.php"); 
+<?php 
+require_once ("includes/data/imagem.php"); 
+require_once ("includes/data/configuracoes.php"); 
 
 ?>
 <!DOCTYPE html>
@@ -7,7 +9,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Ola mundo</title>
+  <title><?php echo titulo(); ?></title>
+  <meta name="description" content="Site profissional para barbearia do portfólio da brutecode | desenvolvimento web"> 
   <?php foreach($imagens as $imagem): ?>
 	<link rel="icon" href="<?php $BASE_URL ?>assets/img/<?php echo $imagem['favicon']?>" type="image/png">
 

@@ -1,75 +1,91 @@
 
-  <!-- ================ start footer Area ================= -->
-  <footer class="footer-area section-gap">
-		<div class="container">
-			<div class="row">
-				<div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-					<h4>Top Products</h4>
-					<ul>
-						<li><a href="#">Managed Website</a></li>
-						<li><a href="#">Manage Reputation</a></li>
-						<li><a href="#">Power Tools</a></li>
-						<li><a href="#">Marketing Service</a></li>
-					</ul>
-				</div>
-				<div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-					<h4>Quick Links</h4>
-					<ul>
-						<li><a href="#">Jobs</a></li>
-						<li><a href="#">Brand Assets</a></li>
-						<li><a href="#">Investor Relations</a></li>
-						<li><a href="#">Terms of Service</a></li>
-					</ul>
-				</div>
-				<div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-					<h4>Features</h4>
-					<ul>
-						<li><a href="#">Jobs</a></li>
-						<li><a href="#">Brand Assets</a></li>
-						<li><a href="#">Investor Relations</a></li>
-						<li><a href="#">Terms of Service</a></li>
-					</ul>
-				</div>
-				<div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-					<h4>Resources</h4>
-					<ul>
-						<li><a href="#">Guides</a></li>
-						<li><a href="#">Research</a></li>
-						<li><a href="#">Experts</a></li>
-						<li><a href="#">Agencies</a></li>
-					</ul>
-				</div>
-				<div class="col-xl-4 col-md-8 mb-4 mb-xl-0 single-footer-widget">
-					<h4>Newsletter</h4>
-					<p>You can trust us. we only send promo offers,</p>
-					<div class="form-wrap" id="mc_embed_signup">
-						<form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-						 method="get" class="form-inline">
-							<input class="form-control" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" type="email">
-							<button class="click-btn btn btn-default">subscribe</button>
-							<div style="position: absolute; left: -5000px;">
-								<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-							</div>
+  <!-- ================ footer  ================= -->
+  <footer id="footer" class="footer bg-overlay">
+    <div class="footer-main">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-4 col-md-6 footer-widget footer-about">
+            <h3 class="widget-title">Sobre Nós</h3>
+			<a class="navbar-brand logo_h" href="<?php $BASE_URL ?>"><img src="<?php $BASE_URL ?>assets/img/<?php echo $imagem['logo-dark']?>" alt=""></a>
+            <p>Somos uma barbearia moderno, com cortes sofisticados e a gosto do cliente. Atendemos também a domicílio. </p>
+            <div class="footer-social">
+              <ul>
+                <li><a href="https://www.facebook.com/brutecodedw" aria-label="Facebook"><i
+                      class="fab fa-facebook-f"></i></a></li>
+                <li><a href="##" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li><a href="https://www.instagram.com/brutecodedw/" aria-label="Instagram"><i
+                      class="fab fa-instagram"></i></a></li>
+                <li><a href="https://github.com/GabrielMattos93" aria-label="Github"><i class="fab fa-github"></i></a></li>
+              </ul>
+            </div><!-- Redes social end -->
+          </div><!-- Col end -->
 
-							<div class="info"></div>
-						</form>
-					</div>
-				</div>
-			</div>
-			<div class="footer-bottom row align-items-center text-center text-lg-left">
-				<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-				<div class="col-lg-4 col-md-12 text-center text-lg-right footer-social">
-					<a href="#"><i class="fab fa-facebook-f"></i></a>
-					<a href="#"><i class="fab fa-twitter"></i></a>
-					<a href="#"><i class="fab fa-dribbble"></i></a>
-					<a href="#"><i class="fab fa-behance"></i></a>
-				</div>
-			</div>
-		</div>
-	</footer>
-  <!-- ================ End footer Area ================= -->
+          <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
+            <h3 class="widget-title">Horário de Funcionamento</h3>
+            <div class="working-hours">
+             
+Nosso horário de funcionamento padrão é de segunda a sábado, execeto aos feriados, em caso de dúvidas entre em contato conosco.
+              <br><br> Segunda - Sexta: <span class="text-right">08:00 - 19:00 </span>
+              <br> Sábado: <span class="text-right">08:00 - 16:00</span>
+              <br> Domingos e Feriados: <span class="text-right">Não há atendimento</span>
+            </div>
+          </div><!-- Col end -->
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+            <h3 class="widget-title">Serviços</h3>
+            <ul class="list-arrow">
+              <li><a href="##">Corte na Tesoura</a></li>
+              <li><a href="##">Corte Navalhado</a></li>
+              <li><a href="##">Barba Desenhada</a></li>
+              <li><a href="##">Barba Tradicional</a></li>
+              <li><a href="##">Corte na Máquina</a></li>
+            </ul>
+          </div><!-- Col end -->
+        </div><!-- Row end -->
+      </div><!-- Container end -->
+    </div><!-- Footer main end -->
+
+    <div class="copyright">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-12">
+            <div class="copyright-info text-center">
+              <span>Copyright &copy; <script>
+                  document.write(new Date().getFullYear())
+                </script>, Barbearia Vina´s Barber House - Um novo conceito em barbearia.  <a class="link-footer" href="https://brutecode.com.br/"></a></span>
+            </div>
+          </div>
+
+          <div class="col-md-12">
+            <div class="copyright-info text-center">
+              <span>Desenvolvido por: <a class="link-footer" href="https://brutecode.com.br/">Brutecode | Desenvolvimento Web</a></span>
+            </div>
+          </div>
+
+          <div class="col-md-12">
+            <div class="footer-menu text-center">
+              <ul class="list-unstyled mb-0">
+                <li><a class="link-footer" href="sobre-nos">Sobre Nós</a></li>
+                <li><a  class="link-footer" href="servicos">Servicos</a></li>
+                <li><a  class="link-footer" href="equipe">Equipe</a></li>
+                <li><a  class="link-footer" href="precos">Preços</a></li>
+                <li><a class="link-footer" href="contato">Contato</a></li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- Row end -->
+
+        <div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top position-fixed">
+          <button class="btn btn-primary" title="Back to Top">
+            <i class="fa fa-angle-double-up"></i>
+          </button>
+        </div>
+
+      </div><!-- Container end -->
+    </div><!-- Copyright end -->
+  </footer><!-- Footer end -->
+  <!-- ================ End footer ================= -->
 
   <script src="./assets/vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
