@@ -2,8 +2,10 @@
   <!-- ================ end header Area ================= -->  
   
   <main class="site-main">
+
+
     
-    <!-- ================ start hero banner Area ================= -->    
+    <!-- ================  Hero banner ================= -->    
     <section class="hero-banner">
       <div class="container">
         <div class="row">
@@ -14,19 +16,19 @@
           </div>
           <div class="col-md-6 pl-xl-4">
             <div class="hero-banner__content">
-              <h1>We Specialize In All Phase Of hair</h1>
-              <p>His itself may also face is creepeth fifth over dominion whose a Bring there created greater day multipl. His itself may also face is creep fifth over dominion whose no analyze market</p>
-              <button class="button button-hero">Reservation</button>
-              <a class="button button--transparent hero-banner__video" href="http://www.youtube.com/watch?v=0O2aH4XLbto">Intro Video</a>
+              <h1>Seu Cabelo, Sua Barba, Seu Estilo.</h1>
+              <p>Meu nome é Vinícius Correia, eu sou sócio-fundador da Vina´s Barber House. Eu sempre gostei de ambientes que me fizessem sentir bem, e é exatamente isso que queremos proporcionar ao nosso cliente, um ambiente onde ele se sinta confortável e entre amigos.</p>
+              <button class="button button-hero"><i class="fab fa-whatsapp"></i> Quero Agendar Agora </button>
+              <img src="<?php $BASE_URL ?>./assets/img/<?php echo $imagem['assinatura']?>" alt="Assinatura do Vinícius Correia">
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- ================ end hero banner Area ================= -->    
+    <!-- ================ end hero banner ================= -->    
 
 
-    <!-- ================ start about section ================= -->    
+    <!-- ================  Sobre Nós ================= -->    
     <section class="section-margin about-wrapper">
       <div class="container">
         <div class="row">
@@ -49,7 +51,7 @@
         </div>
       </div>
     </section>
-    <!-- ================ end about section ================= -->    
+    <!-- ================ end Sobre nós ================= -->    
 
     
     <!-- ================ start feature section ================= -->    
@@ -414,9 +416,6 @@
       </div>
     </section>
     <!-- ================ blog section end ================= -->
-
-
-
 
   </main>      
 
