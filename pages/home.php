@@ -2,8 +2,6 @@
   <!-- ================ end header Area ================= -->  
   
   <main class="site-main">
-
-
     
     <!-- ================  Hero banner ================= -->    
     <section class="hero-banner">
@@ -11,7 +9,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="hero-banner__img">
-              <img class="img-fluid" src="./assets/img/banner/hero-banner.jpg" alt="">
+              <img class="img-fluid" src="<?php  $BASE_URL ?>./assets/img/banner/<?php echo $imagem['hero-banner'] ?>" alt="Banner fixo no topo do site">
             </div>
           </div>
           <div class="col-md-6 pl-xl-4">
@@ -35,17 +33,17 @@
           <div class="col-lg-5 mb-5 mb-lg-0">
             <div class="about__content">
               <div class="section-intro">
-                <h4 class="section-intro__title">About Us</h4>
-                <h2 class="section-intro__subtitle">We Are Artist, Hair Is My Canvas</h2>
+                <h4 class="section-intro__title">Sobre Nós</h4>
+                <h2 class="section-intro__subtitle">Barbearia moderna com conceito "all in one place" para tornar sua experiência mais incrível.</h2>
               </div>
-              <p>You will tree bearing stars moving dry our under evening there one  won't fruitful ling on appear. Their Above sixth creature hath land ehold green et can midst you will bearing stars moving dry our under evening there in won't fruit whose void  le appear their above sixth creatur stars moving dry our under</p>
-              <a class="button" href="#">Learn More</a>
+              <p>A barbearia Vina´s Barber House, era um desejo de muito tempo do Vinícius em ter a sua própria barbearia, após 2 anos trabalhando para uma pequena franquia do Rio de Janeiro, ele resolveu abrir a Vina´s, que atualmente já completa 6 anos de existência. Nosso objetivo é proporcionar aos homens um ambiente descontraído e agradável enquanto ele cuida da sua aparência.</p>
+              <a class="button" href="sobre-nos">Saiba Mais</a>
             </div>
           </div>
           <div class="col-lg-5 offset-lg-2">
             <div class="about__img">
-              <img class="img-fluid" src="./assets/img/home/barber-frame.png" alt="">
-              <img src="./assets/img/home/barber-work.png" alt="" class="about__img--small img-fluid">
+              <img class="img-fluid" src="<?php $BASE_URL ?>./assets/img/home/<?php echo $imagem['sobre-nos-01']?>" alt="imagem do barbeiro fazendo barbaterapia em um cliente">
+              <img src="<?php $BASE_URL ?>./assets/img/home/<?php echo $imagem['sobre-nos-02']?>" alt="Imagem do barbeiro fazendo a barba tradicional com a navalha" class="about__img--small img-fluid">
             </div>
           </div>
         </div>

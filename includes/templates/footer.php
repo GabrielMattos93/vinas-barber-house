@@ -87,6 +87,19 @@ Nosso horário de funcionamento padrão é de segunda a sábado, execeto aos fer
   </footer><!-- Footer end -->
   <!-- ================ End footer ================= -->
 
+  <!-- ================ Vlibras - Plugin ================= -->
+  
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
+    </div>
+  </div>
+  <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+  </script>
+
   <script src="./assets/vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
   <script src="./assets/vendors/OwlCarousel/owl.carousel.min.js"></script>
@@ -95,5 +108,6 @@ Nosso horário de funcionamento padrão é de segunda a sábado, execeto aos fer
 	<script src="./assets/js/mail-script.js"></script>
   <script src="./assets/vendors/Magnific-Popup/jquery.magnific-popup.min.js"></script>	
   <script src="./assets/js/main.js"></script>
+ 
 </body>
 </html>
