@@ -49,131 +49,84 @@
         </div>
       </div>
     </section>
-    <!-- ================ end Sobre nós ================= -->    
-
-    
-    <!-- ================ start feature section ================= -->    
-    <section class="section-margin--large">
-      <div class="container">
-        <div class="section-intro pb-70px">
-          <h4 class="section-intro__title">Advance Feature</h4>
-          <h2 class="section-intro__subtitle">Our Strength Is Your <span class="d-block">Smart beauty</span></h2>
-        </div>
-
-        <div class="row gutters-48">
-          <div class="col-md-6 col-xl-3 mb-5 mb-xl-0">
-            <div class="card text-center card-feature border-style">
-              <div class="card-feature__icon"><i class="flaticon-barber-chair"></i></div>
-              <h3 class="card-feature__title">Best Place</h3>
-              <p>Moveth land fish also replenish that gathering dry whose called gathering image under rule whales two was first</p>
-            </div>
-          </div>
-          
-          <div class="col-md-6 col-xl-3 mb-5 mb-xl-0">
-            <div class="card text-center card-feature border-style">
-              <div class="card-feature__icon"><i class="flaticon-cut"></i></div>
-              <h3 class="card-feature__title">Best Equipment</h3>
-              <p>Moveth land fish also replenish that gathering dry whose called gathering image under rule whales two was first</p>
-            </div>
-          </div>
-          
-          <div class="col-md-6 col-xl-3 mb-5 mb-xl-0">
-            <div class="card text-center card-feature border-style">
-              <div class="card-feature__icon"><i class="flaticon-mirror"></i></div>
-              <h3 class="card-feature__title">Modern Style</h3>
-              <p>Moveth land fish also replenish that gathering dry whose called gathering image under rule whales two was first</p>
-            </div>
-          </div>
-          
-          <div class="col-md-6 col-xl-3 mb-5 mb-xl-0">
-            <div class="card text-center card-feature border-style">
-              <div class="card-feature__icon"><i class="flaticon-barbershop"></i></div>
-              <h3 class="card-feature__title">Expert Staff</h3>
-              <p>Moveth land fish also replenish that gathering dry whose called gathering image under rule whales two was first</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ================ end feature section ================= -->    
+    <!-- ================ end Sobre nós ================= -->     
 
 
-    <!-- ================ video section start ================= --> 
+    <!-- ================ video institucional ================= --> 
     <section class="video-area section-margin--large">
       <div class="container">
         <div class="row justify-content-center align-items-center flex-column text-center">
-          <h3>View Our Work</h3>
-          <a id="play-home-video" class="video-play-button" href="https://www.youtube.com/watch?v=vParh5wE-tM">
+          <h3>Conheça o Ambiente</h3>
+          <a id="play-home-video" class="video-play-button" href="https://www.youtube.com/watch?v=e_Zud-9Evs0">
             <img src="./assets/img/home/play-icon.png" alt="">
           </a>
           <p>05:35</p>
         </div>
       </div>  
     </section>
-    <!-- ================ video section end ================= --> 
     
-    <!-- ================ service section start ================= -->      
+    <!-- ================ Nossos Serviços ================= -->      
     <section class="section-margin--large">
       <div class="container">
         <div class="section-intro pb-70px">
-          <h4 class="section-intro__title">Our Services</h4>
-          <h2 class="section-intro__subtitle">Our Strength Is Your <span class="d-block">Smart beauty</span></h2>
+          <h4 class="section-intro__title">Nossos Serviços</h4>
+          <h2 class="section-intro__subtitle">O que oferecemos aos <span class="d-block">nossos clientes.</span></h2>
         </div>
         <div class="row gutters-48 card-service-wrapper">
           <div class="col-lg-4">
             <div class="card text-center card-service border-style">
               <div class="card-service__icon"><i class="flaticon-cut"></i></div>
-              <h3 class="card-service__title">Stylish Hair Cut</h3>
-              <p>Show wherein form yielding whala gathered wherein moved. Behold may yod winged created that Won't theya are not  second god give best </p>
+              <h3 class="card-service__title">Corte na Tesoura</h3>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique est ac rutrum porttitor. Sed nibh nibh, cursus ac ipsum non, porta venenatis nisl. Aenean venenatis dictum est, quis cursus dolor egestas a. </p>
               <div>
-                <a class="button button-service" href="#">Book Now</a>
+                <a class="button button-service" href="#">Saiba Mais</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card text-center card-service border-style">
+              <div class="card-service__icon"><i class="flaticon-barbershop"></i></div>
+              <h3 class="card-service__title">Bigode </h3>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique est ac rutrum porttitor. Sed nibh nibh, cursus ac ipsum non, porta venenatis nisl. Aenean venenatis dictum est, quis cursus dolor egestas a.</p>
+              <div>
+                <a class="button button-service" href="#">Saiba Mais</a>
               </div>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="card text-center card-service border-style">
               <div class="card-service__icon"><i class="flaticon-wellness"></i></div>
-              <h3 class="card-service__title">Cut & Hair Style</h3>
-              <p>Show wherein form yielding whala gathered wherein moved. Behold may yod winged created that Won't theya are not  second god give best </p>
+              <h3 class="card-service__title">Corte na Máquina</h3>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique est ac rutrum porttitor. Sed nibh nibh, cursus ac ipsum non, porta venenatis nisl. Aenean venenatis dictum est, quis cursus dolor egestas a.</p>
               <div>
-                <a class="button button-service" href="#">Book Now</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="card text-center card-service border-style">
-              <div class="card-service__icon"><i class="flaticon-shower"></i></div>
-              <h3 class="card-service__title">Color & Hair Wash</h3>
-              <p>Show wherein form yielding whala gathered wherein moved. Behold may yod winged created that Won't theya are not  second god give best </p>
-              <div>
-                <a class="button button-service" href="#">Book Now</a>
+                <a class="button button-service" href="#">Saiba Mais</a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- ================ service section end ================= -->      
+    <!-- ================ Servico end ================= -->      
     
-    <!-- ================ team section start ================= -->      
+    <!-- ================ equipe ================= -->      
     <section class="section-padding--large bg-soapstone">
       <div class="container">
         <div class="section-intro pb-70px">
-          <h4 class="section-intro__title">Our Team</h4>
-          <h2 class="section-intro__subtitle">Experience Staff Change <span class="d-block">Your Look</span></h2>
+          <h4 class="section-intro__title">Equipe</h4>
+          <h2 class="section-intro__subtitle">Colaboradores que <span class="d-block">que fazem parte do time.</span></h2>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
             <div class="card card-team">
               <div class="card-team__img">
-                <img class="card-img rounded-0" src="./assets/img/team/team1.png" alt="">
+                <img class="card-img rounded-0" src="<?php $BASE_URL ?>./assets/img/team/<?php echo $imagem['equipe1']?>" alt="">
               </div>
               <div class="card-team__position">
                 <div class="card-footer d-flex justify-content-between align-items-center">
                   <div class="card-team__bio">
-                    <h4><a href="#">Daniel Mateno</a></h4>
-                    <p>Hair Specialist</p>
+                    <h4><a href="#">Léo Aguiar</a></h4>
+                    <p>Barbeiro</p>
                   </div>
                   <ul class="card-team__social">
                     <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -187,13 +140,13 @@
           <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
             <div class="card card-team">
               <div class="card-team__img">
-                <img class="card-img rounded-0" src="./assets/img/team/team2.png" alt="">
+                <img class="card-img rounded-0" src="<?php $BASE_URL ?>./assets/img/team/<?php echo $imagem['equipe2']?>" alt="">
               </div>
               <div class="card-team__position">
                 <div class="card-footer d-flex justify-content-between align-items-center">
                   <div class="card-team__bio">
-                    <h4><a href="#">Julian Parsian</a></h4>
-                    <p>Hair Specialist</p>
+                    <h4><a href="#">Felipe Lopes</a></h4>
+                    <p>Barbeiro</p>
                   </div>
                   <ul class="card-team__social">
                     <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -207,13 +160,13 @@
           <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
             <div class="card card-team">
               <div class="card-team__img">
-                <img class="card-img rounded-0" src="./assets/img/team/team3.png" alt="">
+                <img class="card-img rounded-0" src="<?php $BASE_URL ?>./assets/img/team/<?php echo $imagem['equipe3']?>" alt="">
               </div>
               <div class="card-team__position">
                 <div class="card-footer d-flex justify-content-between align-items-center">
                   <div class="card-team__bio">
-                    <h4><a href="#">Julian Parsian</a></h4>
-                    <p>Hair Specialist</p>
+                    <h4><a href="#">Vinícios Corrêa</a></h4>
+                    <p>Barbeiro</p>
                   </div>
                   <ul class="card-team__social">
                     <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -227,193 +180,86 @@
         </div>
       </div>
     </section> 
-    <!-- ================ team section end ================= -->      
+    <!-- ================ equipe end ================= -->      
 
-    <!-- ================ pricing section start ================= -->      
+    <!-- ================ Nossos Preços ================= -->      
     <section class="section-margin--large pricing-relative">
       <div class="container">
         <div class="section-intro pb-70px">
-          <h4 class="section-intro__title">Pricing Plan</h4>
-          <h2 class="section-intro__subtitle">Choose Your Favorite <span class="d-block">Package</span></h2>
+          <h4 class="section-intro__title">Preços de Serviços</h4>
+          <h2 class="section-intro__subtitle">Veja os nossos pacotes <span class="d-block">completos.</span></h2>
         </div>
         <div class="row gutters-48">
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <div class="card text-center card-pricing border-style">
               <div class="card-pricing__header">
-                <h3>Basic Hair Cut</h3>
-                <p>Standard Package</p>
+                <h3>Corte de Cabelo + Barba</h3>
+                <p>Corte na Máquina + Barba Desenhada</p>
               </div>
               <div class="card-pricing__price">
-                <h2>$79.00</h2>
+                <h2>R$ 60,00 </h2>
               </div>
               <ul class="card-pricing__list">
-                <li>Basic Hair Cut</li>
-                <li>Basic Shave</li>
-                <li>Basic Head Wash</li>
-                <li>Basic Body Message</li>
-                <li>Basic Snacks</li>
+                <li>Corte na Máquina</li>
+                <li>Barba Desenhada Serrada</li>
+                <li>Barba terapia</li>
               </ul>
               <div class="mb-5">
-                <a class="button button-pricing" href="#">Book Now</a>
+                <a class="button button-pricing" href="#">Agendar</a>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <div class="card text-center card-pricing border-style">
               <div class="card-pricing__header">
-                <h3>Standard Hair Cut</h3>
-                <p>Standard Package</p>
+                <h3>Corte de Cabelo + Barba e Bigode</h3>
+                <p>Corte na tesoura + barba lenhador e bigode</p>
               </div>
               <div class="card-pricing__price">
-                <h2>$89.00</h2>
+                <h2>R$ 92,00 </h2>
               </div>
               <ul class="card-pricing__list">
-                <li>Basic Hair Cut</li>
-                <li>Basic Shave</li>
-                <li>Basic Head Wash</li>
-                <li>Basic Body Message</li>
-                <li>Basic Snacks</li>
+                <li>Corte na Tesoura</li>
+                <li>Bigode modelado</li>
+                <li>Barba lenhador</li>
+                <li>Barba terapia</li>
+               
               </ul>
               <div class="mb-5">
-                <a class="button button-pricing" href="#">Book Now</a>
+                <a class="button button-pricing" href="#">Agendar</a>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <div class="card text-center card-pricing border-style">
               <div class="card-pricing__header">
-                <h3>Ultimate Hair Cut</h3>
-                <p>Standard Package</p>
+                <h3>Alisamento e tratamento capílar</h3>
+                <p>Alisamento + tratamento capilar</p>
               </div>
               <div class="card-pricing__price">
-                <h2>$99.00</h2>
+                <h2>R$ 99.00</h2>
               </div>
               <ul class="card-pricing__list">
-                <li>Basic Hair Cut</li>
-                <li>Basic Shave</li>
-                <li>Basic Head Wash</li>
-                <li>Basic Body Message</li>
-                <li>Basic Snacks</li>
+                <li>Alisamento</li>
+                <li>Tratamento capilar </li>
+                <li>Hidratação</li>
+
               </ul>
               <div class="mb-5">
-                <a class="button button-pricing" href="#">Book Now</a>
+                <a class="button button-pricing" href="#">Agendar</a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- ================ pricing section end ================= -->      
+    <!-- ================ preço end ================= -->      
 
 
-    <!-- ================ testimonial section start ================= -->      
-    <section class="testimonial testimonial-position">
-      <div class="container">
-        <div class="testi_slider owl-carousel owl-theme">
-          <div class="item">
-            <div class="testi_item">
-              <img src="./assets/img/home/testimonial1.png" alt="">
-              <div class="testi_item_content">
-                <p>
-                  <i class="fas fa-quote-left"></i>
-                  At quis et morbi. Dolor at augue convallis luctus mi arcu urna ultricies ad fames risus bibendum curabitur integer maecenas ullamcorper dictum hymenaeos penatibus hendrerit malesuada dui consequat.
-                </p>
-                <h4>Nihare Edersen</h4>    
-                <p>Founder, Trade</p>          
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testi_item">
-              <img src="./assets/img/home/testimonial1.png" alt="">
-              <div class="testi_item_content">
-                <p>
-                  <i class="fas fa-quote-left"></i>
-                  At quis et morbi. Dolor at augue convallis luctus mi arcu urna ultricies ad fames risus bibendum curabitur integer maecenas ullamcorper dictum hymenaeos penatibus hendrerit malesuada dui consequat.
-                </p>
-                <h4>Nihare Edersen</h4>    
-                <p>Founder, Trade</p>          
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testi_item">
-              <img src="./assets/img/home/testimonial1.png" alt="">
-              <div class="testi_item_content">
-                <p>
-                  <i class="fas fa-quote-left"></i>
-                  At quis et morbi. Dolor at augue convallis luctus mi arcu urna ultricies ad fames risus bibendum curabitur integer maecenas ullamcorper dictum hymenaeos penatibus hendrerit malesuada dui consequat.
-                </p>
-                <h4>Nihare Edersen</h4>    
-                <p>Founder, Trade</p>          
-              </div>
-            </div>
-          </div>
-      </div>
-    </section>
-    <!-- ================ testimonial section end ================= -->      
+  
 
 
-    <!-- ================ blog section start ================= -->      
-    <section class="section-margin--large">
-      <div class="container">
-        <div class="section-intro pb-70px">
-          <h4 class="section-intro__title">Our Blog</h4>
-          <h2 class="section-intro__subtitle">Read The Latest Hair <span class="d-block">Style News</span></h2>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card card-blog">
-              <div class="card-blog__img">
-                <img class="card-img rounded-0" src="./assets/img/home/blog1.png" alt="">
-              </div>
-              <div class="card-body">
-                <ul class="card-blog__info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>18/01/2019</a></li>
-                </ul>
-                <h3 class="card-blog__title"><a href="#">Make The Most Of Your Locks</a></h3>
-                <p>Nibh turpis Dictumst litora curae imperdiet an aelementum proin parturient torquent.</p>
-                <a class="card-blog__link" href="#">Read More</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card card-blog">
-              <div class="card-blog__img">
-                <img class="card-img rounded-0" src="./assets/img/home/blog2.png" alt="">
-              </div>
-              <div class="card-body">
-                <ul class="card-blog__info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>18/01/2019</a></li>
-                </ul>
-                <h3 class="card-blog__title"><a href="#">Chic They Work Any Occassion</a></h3>
-                <p>Nibh turpis Dictumst litora curae imperdiet an aelementum proin parturient torquent.</p>
-                <a class="card-blog__link" href="#">Read More</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card card-blog">
-              <div class="card-blog__img">
-                <img class="card-img rounded-0" src="./assets/img/home/blog3.png" alt="">
-              </div>
-              <div class="card-body">
-                <ul class="card-blog__info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>18/01/2019</a></li>
-                </ul>
-                <h3 class="card-blog__title"><a href="#">Easy Hairstyles For GirlHair</a></h3>
-                <p>Nibh turpis Dictumst litora curae imperdiet an aelementum proin parturient torquent.</p>
-                <a class="card-blog__link" href="#">Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ================ blog section end ================= -->
+  
 
   </main>      
 

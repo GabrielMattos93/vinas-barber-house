@@ -794,7 +794,7 @@ a {
 }
 
 .video-area {
-	background: url("../img/home/video-bg.png") left center no-repeat;
+	background: url("../img/home/video-bg.jpg") left center no-repeat;
 	background-size: cover;
 	padding: 50px 10px;
 	position: relative;
