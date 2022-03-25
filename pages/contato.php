@@ -1,22 +1,22 @@
 <?php require_once ("includes/templates/header.php")?>
 	
-  <!-- ================ start banner area ================= -->
+  <!-- ================ banner area ================= -->
 	<section class="banner-area contact" id="contact">
 		<div class="container h-100">
 			<div class="banner-area__content text-center">
-        <h1>Contact Us</h1>
+        <h1>Contato</h1>
         <nav aria-label="breadcrumb" class="banner-breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+            <li class="breadcrumb-item"><a href="#">Principal</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Contato</li>
           </ol>
         </nav>
 			</div>
     </div>
 	</section>
-	<!-- ================ end banner area ================= -->
 
-	<!-- ================ contact section start ================= -->
+
+	<!-- ================ contato ================= -->
   <section class="section-margin">
     <div class="container">
       <div class="d-none d-sm-block mb-5 pb-4">
@@ -67,7 +67,7 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-email"></i></span>
             <div class="media-body">
-              <h3><a href="mailto:support@colorlib.com">support@colorlib.com</a></h3>
+              <h3><a href="mailto:support@colorlib.com">contato@brutecode.com.br</a></h3>
               <p>Send us your query anytime!</p>
             </div>
           </div>
@@ -77,23 +77,23 @@
             <div class="row">
               <div class="col-lg-5">
                 <div class="form-group">
-                  <input class="form-control" name="name" id="name" type="text" placeholder="Enter your name">
+                  <input class="form-control" name="name" id="name" type="text" placeholder="Digite seu nome">
                 </div>
                 <div class="form-group">
-                  <input class="form-control" name="email" id="email" type="email" placeholder="Enter email address">
+                  <input class="form-control" name="email" id="email" type="email" placeholder="Digite seu email">
                 </div>
                 <div class="form-group">
-                  <input class="form-control" name="subject" id="subject" type="text" placeholder="Enter Subject">
+                  <input class="form-control" name="subject" id="subject" type="text" placeholder="Qual o assunto?">
                 </div>
               </div>
               <div class="col-lg-7">
                 <div class="form-group">
-                    <textarea class="form-control different-control w-100" name="message" id="message" cols="30" rows="5" placeholder="Enter Message"></textarea>
+                    <textarea class="form-control different-control w-100" name="message" id="message" cols="30" rows="5" placeholder="Digite sua mensagem"></textarea>
                 </div>
               </div>
             </div>
             <div class="form-group text-center text-md-right mt-3">
-              <button type="submit" class="button">Send Message</button>
+              <button type="submit" class="button">Enviar</button>
             </div>
           </form>
         </div>

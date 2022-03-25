@@ -8,7 +8,7 @@
         <h1>Sobre Nos</h1>
         <nav aria-label="breadcrumb" class="banner-breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="<?php $BASE_URL ?>./">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php $BASE_URL ?>./">Principal</a></li>
             <li class="breadcrumb-item active" aria-current="page">Sobre nos</li>
           </ol>
         </nav>
