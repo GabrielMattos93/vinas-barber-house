@@ -71,7 +71,7 @@ Na pasta pages você encontra todas as páginas do projeto.
 ---
 
 <details>
-<summary>Estrutura da Pasta Includes</summary>
+<summary>Estrutua da Pasta Includes</summary>
 <br>
 <br><br>
 <pre>
@@ -80,7 +80,5 @@ Templates - Todos os arquivos de layout e tema.
 
 </pre>
 </details>
-
----
 
 
