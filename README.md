@@ -18,7 +18,11 @@ Versão - 1.0
 Bootstrap<br>
 IcoFont<br>
 Google fonts<br>
+Themify<br>
+Flaticon<br>
 Composer<br>
+Jquery<br>
+
 
 
 <details>
