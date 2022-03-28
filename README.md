@@ -75,10 +75,12 @@ Na pasta pages você encontra todas as páginas do projeto.
 <br>
 <br><br>
 <pre>
-Na pasta includes, incluímos todos os arquivos referentes a configurações e templates de layout.
+Data  - Onde estão todos os arquivos de configuração dinâmica do site.
+Templates - Todos os arquivos de layout e tema.
 
 </pre>
 </details>
 
 ---
+
 

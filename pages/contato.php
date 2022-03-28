@@ -35,7 +35,7 @@
               {elementType: 'labels.text.fill', stylers: [{color: '#A3A3A3'}]}
             ];
             var map = new google.maps.Map(document.getElementById('map'), {
-              center: {lat: -31.197, lng: 150.744},
+              center: {lat: -22.899343, lng: -42.984541},
               zoom: 9,
               styles: grayStyles,
               scrollwheel:  false
@@ -53,22 +53,15 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-home"></i></span>
             <div class="media-body">
-              <h3>California United States</h3>
-              <p>Santa monica bullevard</p>
+              <h3>Rio de Janeiro, São Gonçalo</h3>
+              <p>Rio do Ouro</p>
             </div>
           </div>
           <div class="media contact-info">
-            <span class="contact-info__icon"><i class="ti-headphone"></i></span>
+            <span class="contact-info__icon"><i class="ti-mobile"></i></span>
             <div class="media-body">
-              <h3><a href="tel:454545654">00 (440) 9865 562</a></h3>
-              <p>Mon to Fri 9am to 6pm</p>
-            </div>
-          </div>
-          <div class="media contact-info">
-            <span class="contact-info__icon"><i class="ti-email"></i></span>
-            <div class="media-body">
-              <h3><a href="mailto:support@colorlib.com">contato@brutecode.com.br</a></h3>
-              <p>Send us your query anytime!</p>
+              <h3><a href="tel:(21) 98479-8244">(21) 98479-8244</a></h3>
+              <p>Seg a Sex 9:00 as 19:00</p>
             </div>
           </div>
         </div>
